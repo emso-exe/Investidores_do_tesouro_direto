@@ -2,8 +2,6 @@
 
 Projeto de análise de perfil de investidores (pesssoas físicas) do tesouro direto que aderiram ao programa entre janeiro de 2002 e junho de 2022, com base nos dados (.csv) acessíveis no portal de [Dados Abertos](https://www.tesourotransparente.gov.br/ckan/dataset) disponibilizados pelo [Tesouro Nacional Transparente](https://www.tesourotransparente.gov.br/).
 
-## Demanda da análise
-
 ## 📃 Demanda da análise
 
 - Identificar os perfis e elaborar métricas dos investidores 
