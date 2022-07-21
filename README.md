@@ -1,6 +1,8 @@
 # 🔎 Análise de dados: Investidores do Tesouro Direto 💰
 
-Projeto de análise de perfil de investidores do tesouro direto com base nos dados (.csv) acessíveis no portal de [Dados Abertos](https://www.tesourotransparente.gov.br/ckan/dataset) disponibilizados pelo [Tesouro Nacional Transparente](https://www.tesourotransparente.gov.br/).
+Projeto de análise de perfil de investidores (pesssoas físicas) do tesouro direto que aderiram ao programa entre janeiro de 2002 e junho de 2022, com base nos dados (.csv) acessíveis no portal de [Dados Abertos](https://www.tesourotransparente.gov.br/ckan/dataset) disponibilizados pelo [Tesouro Nacional Transparente](https://www.tesourotransparente.gov.br/).
+
+## Demanda da análise
 
 ## 📃 Demanda da análise
 
@@ -8,14 +10,13 @@ Projeto de análise de perfil de investidores do tesouro direto com base nos dad
 
 ## ❓ Indagações a serem respondidas pela análise exploratória dos dados
 
-1. Qual a quantidade de adesões por período e que operaram nos últimos 12 meses?
-2. Qual a quantidade de adesões ativas e inativas por período?
-3. Qual o total de investidores ativos e inativos por país?
-4. Qual o total de investidores ativos e inativos por estado?
-5. Qual o total de investidores ativos e inativos por cidade?
-6. Quais os perfis dos investidores?
-7. Quais os perfis dos investidores de sexo masculino?
-8. Quais os perfis dos investidores de sexo feminino?
+1. Qual a quantidade de investidores que operaram nos últimos 12 meses?
+2. Qual a quantidade de investidores atualmente ativos e inativos por período de adesão?
+3. Qual o total de investidores ativos e inativos por estado?
+4. Qual o total de investidores ativos e inativos em um ranking de 10 cidades?
+5. Qual o perfil dos investidores ativos por faixa etária?
+6. Qual o perfil dos investidores ativos de sexo masculino?
+7. Qual o perfil dos investidores ativos de sexo feminino?
 
 ## 💻 Tecnologias
 
