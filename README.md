@@ -15,13 +15,14 @@ O Tesouro Direto é um programa do Tesouro Nacional desenvolvido em parceria com
 2. Qual o total de investidores por estado (01/2002 a 07/2022)?
 3. Qual o total de investidores em um ranking de 10 cidades (01/2002 a 07/2022)?
 4. Qual a quantidade de investidores que operaram nos últimos 12 meses (07/2021 a 07/2022)?
-5. Qual o perfil dos investidores por faixa etária?
-6. Qual o perfil dos investidores de sexo masculino?
-7. Qual o perfil dos investidores de sexo feminino?
+5. Qual a distribuição de investidores por faixa etária e gênero (01/2002 a 07/2022)?
+6. Qual a distribuição de investidores por faixa etária, gênero e estado civil (01/2002 e 07/2022)?
+7. Qual a distribuição de investidores em um ranking de 10 perfis profissionais por faixa etária e gênero (01/2002 a 07/2022)?
 
 ## 💻 Tecnologias
 
 - Python
+    - Biblioteca GC
     - Biblioteca Pandas
     - Biblioteca Matplotlib
     - Biblioteca Seaborn
