@@ -17,7 +17,7 @@ O Tesouro Direto é um programa do Tesouro Nacional desenvolvido em parceria com
 4. Qual a quantidade de investidores que operaram nos últimos 12 meses (07/2021 a 07/2022)?
 5. Qual a distribuição de investidores por faixa etária e gênero (01/2002 a 07/2022)?
 6. Qual a distribuição de investidores por faixa etária, gênero e estado civil (01/2002 e 07/2022)?
-7. Qual a distribuição de investidores em um ranking de 10 perfis profissionais por faixa etária e gênero (01/2002 a 07/2022)?
+7. Qual a distribuição de investidores em um ranking de 10 perfis profissionais por gênero (01/2002 a 07/2022)?
 
 ## 💻 Tecnologias
 
