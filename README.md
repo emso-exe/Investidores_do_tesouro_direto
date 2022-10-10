@@ -30,6 +30,7 @@ O Tesouro Direto é um programa do Tesouro Nacional desenvolvido em parceria com
     - Biblioteca Warnings
     - Biblioteca Tabulate
     - Biblioteca Statistics
+- Power BI
 
 ## 💳 Créditos
 
