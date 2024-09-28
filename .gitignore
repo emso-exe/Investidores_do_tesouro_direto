@@ -1,5 +1,9 @@
+venv
+spark-warehouse
 .ipynb_checkpoints
-_temp
+._*
+_*
+*parquet*
 *.txt
 *.pbix
 *.csv
