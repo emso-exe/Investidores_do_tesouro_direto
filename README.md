@@ -14,6 +14,8 @@ Com o crescente interesse em investimentos, especialmente em tempos de volatilid
 - Perfil demográfico dos investidores
 - Padrões regionais de investimento
 - Comportamento operacional dos investidores
+- Construir uma ABT para criação de um dashboard
+- Construção de um dashboard com Power BI
 
 ## 📃 Compreensão dos dados
 
@@ -54,6 +56,7 @@ Os dados disponíveis incluem um arquivo em formato _CSV_ e um arquivo _PDF_ com
 - PySpark
   - Biblioteca OS
   - Biblioteca Time
+- Microsoft Power BI
 
 
 ## 💳 Créditos
